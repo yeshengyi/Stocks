@@ -1,7 +1,4 @@
-# Stocks
-Here are 2 files.
-stocks.csv is a complete list of stocks traded on various exchanges
-https://www.nasdaq.com/market-activity/stocks/screener
-
-ETFs.csv is a complete list of ETFs
-https://www.nasdaq.com/market-activity/etf/screener
+# Companies Market Cap
+Files #1
+companies.csv
+Download data from companiesmarketcap.com and save into csv file
